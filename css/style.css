@@ -1,0 +1,15 @@
+
+/* Reset Rule */
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+header{
+    color: rgb(8, 116, 23);
+    background-color: rosybrown;
+}
+
+.highlight{
+    color: rgb(8, 116, 23);
+}
