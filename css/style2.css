@@ -24,4 +24,5 @@ header{
     color: rgb(8, 116, 23);
     background-color: #ffc90e;
     background: linear-gradient(#ffc90e,#ff9c0e);
+    border-radius: 0.5em 2.5em 0.5em 0.5em;
 }
