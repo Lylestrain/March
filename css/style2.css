@@ -14,7 +14,8 @@ body{
 header{
     color: rgb(188, 207, 207);
     background-color: #ffc90e;
-    margin-bottom:2em;
+    background: linear-gradient(#ffc90e,#ff9c0e);
+    margin:0.5em 0 2em 0;
 }
 
 #workarea{
@@ -22,4 +23,5 @@ header{
     margin: auto;
     color: rgb(8, 116, 23);
     background-color: #ffc90e;
+    background: linear-gradient(#ffc90e,#ff9c0e);
 }
