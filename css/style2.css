@@ -10,6 +10,7 @@ body{
     color: rgb(188, 207, 207);
     background-color: #491e10;
     background: linear-gradient(#95482e,#491e10);
+    min-height: 100vh;
 }
 
 #banner{
