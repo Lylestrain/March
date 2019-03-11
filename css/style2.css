@@ -24,8 +24,8 @@ header{
     color: rgb(188, 207, 207);
     background-color: #ffc90e;
     background: linear-gradient(#ffc90e,#ff9c0e);
-    margin:2em auto 1em auto;
-    border-radius: 0.5em 1.5em 0.5em 0.5em;
+    margin:2em auto 0.5em auto;
+    border-radius: 0.5em 1em 0.5em 0.5em;
 }
 
 #workarea{
@@ -34,5 +34,5 @@ header{
     color: rgb(8, 116, 23);
     background-color: #ffc90e;
     background: linear-gradient(#ffc90e,#ff9c0e);
-    border-radius: 0.5em 0.5em 0.5em 1.5em;
+    border-radius: 0.5em 0.5em 0.5em 1em;
 }
