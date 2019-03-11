@@ -11,18 +11,28 @@ body{
     background-color: #491e10;
 }
 
-header{
+#banner{
     color: rgb(188, 207, 207);
     background-color: #ffc90e;
     background: linear-gradient(#ffc90e,#ff9c0e);
-    margin:0.2em 0 2em 0;
+    margin:0.2em 0 0 0;
+}
+
+header{
+    width: 95%;
+    margin: auto;
+    color: rgb(188, 207, 207);
+    background-color: #ffc90e;
+    background: linear-gradient(#ffc90e,#ff9c0e);
+    margin:2em auto 1em auto;
+    border-radius: 0.5em 1.5em 0.5em 0.5em;
 }
 
 #workarea{
-    width: 80%;
+    width: 95%;
     margin: auto;
     color: rgb(8, 116, 23);
     background-color: #ffc90e;
     background: linear-gradient(#ffc90e,#ff9c0e);
-    border-radius: 0.5em 2.5em 0.5em 0.5em;
+    border-radius: 0.5em 0.5em 0.5em 1.5em;
 }
