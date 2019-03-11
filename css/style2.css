@@ -40,3 +40,8 @@ header{
     background: linear-gradient(#ffc90e,#ff9c0e);
     border-radius: 0.5em 0.5em 0.5em 1em;
 }
+
+.my_button{
+    color: rgb(188, 207, 207);
+    background-color: #a84422;
+}
