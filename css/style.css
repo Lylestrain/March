@@ -8,8 +8,9 @@
 header{
     color: rgb(8, 116, 23);
     background-color: rosybrown;
+    background: linear-gradient(#ffc90e,rosybrown);
 }
 
 .highlight{
-    color: rgb(8, 116, 23);
+    color: hsl(128, 83%, 43%);
 }

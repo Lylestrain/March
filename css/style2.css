@@ -9,16 +9,17 @@
 body{
     font-family: 'Fjalla One', sans-serif;
     color: rgb(188, 207, 207);
-    background-color: #491e10;
+   /* background-color: #491e10;*/
     background: linear-gradient(#95482e,#491e10);
     min-height: 100vh;
 }
 
 #banner{
-    color: rgb(188, 207, 207);
-    background-color: #ffc90e;
+    color: rgb(22, 44, 235);
+    background-color: hsl(47, 100%, 53%);
     background: linear-gradient(#ffc90e,#ff9c0e);
     margin:0.2em 0 0 0;
+    text-align: center;
 }
 
 header{
