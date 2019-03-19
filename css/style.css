@@ -10,7 +10,7 @@ body{
     background: linear-gradient(#ffc90e,rosybrown);
 }
 header{
-    color: rgb(8, 116, 23);
+    color: hsl(128, 87%, 55%);
     background: linear-gradient(rosybrown,#ffc90e);
     
 }
