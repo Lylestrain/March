@@ -9,6 +9,12 @@
 body{
     background: linear-gradient(#ffc90e,rosybrown);
 }
+
+#wrapper{
+    width: 80%;
+    margin: auto;
+    border: 2px solid red;
+}
 header{
     color: hsl(128, 87%, 55%);
     background: linear-gradient(rosybrown,#ffc90e);
