@@ -11,10 +11,10 @@ body{
 }
 
 #wrapper{
-    width: 80%;
+    width: 95vw;
     margin: auto;
-    border: 2px solid red;
 }
+
 header{
     color: hsl(128, 87%, 55%);
     background: linear-gradient(rosybrown,#ffc90e);
