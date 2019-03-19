@@ -24,3 +24,7 @@ header{
 .highlight{
     color: hsl(128, 83%, 43%);
 }
+
+p{
+    padding: 1em;
+}
