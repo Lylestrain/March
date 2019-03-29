@@ -29,6 +29,10 @@ header{
     color: hsl(128, 83%, 43%);
 }
 
+.highlight2{
+    text-justify: right;
+}
+
 p{
     padding: 1em;
 }
