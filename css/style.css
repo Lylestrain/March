@@ -18,7 +18,11 @@ body{
 header{
     color: hsl(128, 87%, 55%);
     background: linear-gradient(rosybrown,#ffc90e);
-    
+   
+}
+
+.logo{
+    font: 4em sans-serif ; 
 }
 
 .highlight{
