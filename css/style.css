@@ -7,7 +7,7 @@
 }
 
 body{
-    background: linear-gradient(#ffc90e,rosybrown);
+    background: linear-gradient(rosybrown,#ffc90e,rosybrown);
 }
 
 #wrapper{
@@ -17,7 +17,7 @@ body{
 
 header{
     color: hsl(128, 87%, 55%);
-    background: linear-gradient(rosybrown,#ffc90e);
+   /*  background: linear-gradient(rosybrown,#ffc90e);*/
    
 }
 
